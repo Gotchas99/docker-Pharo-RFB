@@ -1,0 +1,6 @@
+version: '2'
+services:
+  ph:
+    build: .
+    ports:
+    - "5901:5901"
