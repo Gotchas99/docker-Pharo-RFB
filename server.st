@@ -4,6 +4,6 @@ RFBServer current
     allowEmptyPasswords: false;
     setFullPassword: 'gotchas';
     enableLogging: true;
-    start: 1.
+    start: 2.
 
 "    enableDebugging: true;"
